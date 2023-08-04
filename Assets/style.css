@@ -12,6 +12,7 @@ label {
 
 .card {
 	margin: 10px;
+  border-radius: 20px;
 }
 
 .colOne {
@@ -30,7 +31,7 @@ label {
 	margin-bottom: 5px;
 }
 
-.green {
+/* .green {
 	background-color: lightgreen;
 }
 
@@ -48,7 +49,7 @@ label {
 
 .purple {
 	background-color: purple;
-}
+} */
 
 .icons {
 	height: 70px;
@@ -57,4 +58,5 @@ label {
 
 .cardTodayDate {
 	font-size: 20px;
+  border-radius: 20px;
 }
